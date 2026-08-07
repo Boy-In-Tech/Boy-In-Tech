@@ -44,7 +44,7 @@ Git & GitHub · AWS · Render · Netlify · Jupyter Notebook · Selenium WebDriv
 ##  Reach me
 
 - **Email:** boyintechgdi@gmail.com
-- **LinkedIn:** *(add your LinkedIn URL here)*
+- **LinkedIn:** *www.linkedin.com/in/oluwasegun-oluwatimileyin-zion-7431bb3a0*
 - **Live project:** [ihostelservices.com](https://ihostelservices.com)
 
 <!--
