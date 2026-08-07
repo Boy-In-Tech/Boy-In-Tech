@@ -45,7 +45,7 @@ Git & GitHub · AWS · Render · Netlify · Jupyter Notebook · Selenium WebDriv
 
 - **Email:** boyintechgdi@gmail.com
 - **LinkedIn:** *www.linkedin.com/in/oluwasegun-oluwatimileyin-zion-7431bb3a0*
-- **Live project:** [ihostelservices.com](https://ihostelservices.com)
+- **Live project:** [ihostelservices.com](https://ihostelservices.com) *(v1 — full platform rebuild launching soon)*
 
 <!--
 **Boy-In-Tech/Boy-In-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
